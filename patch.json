@@ -1,0 +1,5 @@
+[
+  { "op": "replace", "path": "/definitions/Patient/additionalProperties", "value": true },
+  { "op": "replace", "path": "/definitions/Appointment/additionalProperties", "value": true },
+  { "op": "replace", "path": "/definitions/Encounter/additionalProperties", "value": true }
+]
