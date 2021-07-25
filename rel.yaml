@@ -1,0 +1,11 @@
+{
+  "appointment": {
+    "description": "Refers to an appointment related to the context resource, e.g.: a patient."
+  },
+  "book-appointment": {
+    "description": "Refers to an clinical appoint scheduling service resource for the context resource."
+  },
+  "encounter": {
+    "description": "Refers to an encounter related to the context resource, e.g.: a patient."
+  }
+}
